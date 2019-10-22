@@ -2,31 +2,6 @@ input {
     height: 45px !important;
 }
 
-.login-form-button {
-    width: 100%;
-    height: 45px;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    height: 100vh;
-    background: #cecece;
-}
-
-.box-login {
-    width: 500px;
-    height: 200px;
-}
-
-.img-logo img{
-    width: 150px;
-    height: 150px;
-    margin-bottom: 20px;
-}
-
 .has-error .ant-form-explain, .has-error .ant-form-split {
     color: #f5222d;
     margin-top: 5px;
